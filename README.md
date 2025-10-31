@@ -179,7 +179,7 @@ Description of your personal project.
 
 ### 👁️ Scrying Counter
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b7355&style=for-the-badge&label=Visitors+to+the+Disc)
+![](https://komarev.com/ghpvc/?username=MaksInvader&color=8b7355&style=for-the-badge&label=Visitors+to+the+Disc)
 
 ---
 
