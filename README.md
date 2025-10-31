@@ -147,7 +147,7 @@ Description of your personal project.
 
 ## 📈 The Cartography of Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=1a1a1a&color=c79081&line=f4c995&point=e0d5c1)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksInvader&theme=github-compact&hide_border=true&bg_color=1a1a1a&color=c79081&line=f4c995&point=e0d5c1)
 
 ---
 
@@ -165,7 +165,7 @@ Description of your personal project.
 
 ## 🐢 The Great A'Tuin's Journey Through Space-Time
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/MaksInvader/MaksInvader/output/github-contribution-grid-snake-dark.svg)
 
 *(This represents A'Tuin swimming through the cosmos, consuming stars... or your GitHub contributions)*
 
