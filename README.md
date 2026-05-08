@@ -35,7 +35,7 @@
 > *"I find your lack of documentation... disturbing."*
 > — Lord Vader, upon reviewing MaksInvader's first commit
 
-**Designation:** Muhammad Adrean Karim Syauqy, a.k.a. **MaksInvader**
+**Designation:** Muhammad Adrean Karim Syauqy, a.k.a. **Darth MaksInvader**
 **Rank:** Junior Sith Apprentice / Cadet Data Scientist / Machine Learning Stormtrooper
 **Station:** Imperial Coruscant Academy of Technology (Telkom University, for the Rebels)
 **Current Assignment:** Constructing planet-destroying models — of the *neural network* variety
@@ -216,7 +216,7 @@ while galaxy_not_yet_conquered:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imperial_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Imperial_Archives-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaksInvader)
-[![Email](https://img.shields.io/badge/Email-Send_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![Email](https://img.shields.io/badge/Email-Send_Transmission-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adreansyauqy@gmail.com)
 
 *All transmissions are monitored by Imperial Intelligence.*
 *Reach out anyway. He replies faster than the Death Star fires.*
