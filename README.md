@@ -36,8 +36,11 @@
 > — Lord Vader, upon reviewing MaksInvader's first commit
 
 **Designation:** Muhammad Adrean Karim Syauqy, a.k.a. **Darth MaksInvader**
+
 **Rank:** Junior Sith Apprentice / Cadet Data Scientist / Machine Learning Stormtrooper
+
 **Station:** Imperial Coruscant Academy of Technology (Telkom University, for the Rebels)
+
 **Current Assignment:** Constructing planet-destroying models — of the *neural network* variety
 
 The Empire has identified this operative as a **high-value asset** in the fields of Machine Learning, Computer Vision, and writing code that *almost* works on the first try. Like all Stormtroopers, accuracy is... a work in progress.
