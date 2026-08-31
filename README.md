@@ -122,9 +122,9 @@ NEURAL NETWORK DIVISION:  YOLO, ViT, GNN, Scikit-Learn
 > *These numbers were audited by the Imperial Bureau of Statistics.*
 > *Any discrepancies are the work of Rebel saboteurs.*
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksInvader&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c0c0c0)](https://github.com/MaksInvader)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MaksInvader&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c0c0c0)](https://github.com/MaksInvader)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksInvader&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c0c0c0)](https://github.com/MaksInvader)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaksInvader&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c0c0c0)](https://github.com/MaksInvader)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaksInvader&theme=dark&hide_border=true&background=0d1117&ring=ff0000&fire=ff4444&currStreakLabel=c0c0c0)](https://github.com/MaksInvader)
 
@@ -329,5 +329,9 @@ while galaxy_not_yet_conquered:
 *May the `git push --force` be with you. Always.*
 
 **— The Galactic Empire's Department of Developer Relations**
+
+<br>
+
+![GitHub Metrics](github-metrics.svg)
 
 </div>
