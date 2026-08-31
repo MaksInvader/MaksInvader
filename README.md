@@ -20,6 +20,10 @@
 
 *A long time ago in a galaxy far, far away... someone pushed to main without testing*
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hey%2C+I%27m+MaksInvader;Machine+Learning+Stormtrooper;IoT+Firmware+Engineer)](https://github.com/MaksInvader)
+
 ---
 
 ![Imperial Crest](https://img.shields.io/badge/GALACTIC_EMPIRE-ORDER_66_COMPLIANT-red?style=for-the-badge&logo=star&logoColor=white)
@@ -123,6 +127,11 @@ NEURAL NETWORK DIVISION:  YOLO, ViT, GNN, Scikit-Learn
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksInvader&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c0c0c0)](https://github.com/MaksInvader)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaksInvader&theme=dark&hide_border=true&background=0d1117&ring=ff0000&fire=ff4444&currStreakLabel=c0c0c0)](https://github.com/MaksInvader)
+
+### ⏱️ IMPERIAL TIME TRACKING (WAKATIME)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
