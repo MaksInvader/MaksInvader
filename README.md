@@ -56,11 +56,12 @@ imperial_dossier = {
     "codename":       "MaksInvader",
     "true_name":      "Muhammad Adrean Karim Syauqy",
     "allegiance":     "The Galactic Empire (and also Python)",
+    "education":      "B.S. in Computer Engineering (Cum Laude, 3.62 GPA)",
     "current_quests": [
         "Training fire & smoke detection models (for the Death Star sprinkler system)",
-        "Graph Neural Networks for traffic prediction (Coruscant rush hour is chaos)",
-        "Replicating ML textbooks (so the Emperor doesn't have to read them)",
-        "Building Fomo-business (FOMO is strong with this one)",
+        "Engineering IoT Firmware for Hydroponic Farms (feeding the Imperial army)",
+        "Developing Facial Recognition systems (tracking Rebel spies)",
+        "Publishing research on Wildfire Segmentation (because Endor was a mistake)",
     ],
     "seeking":        "Rebel collaborators willing to switch sides",
     "status":         "Operational. Mostly.",
@@ -93,6 +94,22 @@ INFRASTRUCTURE DEATH STARS: AWS, Docker
 INTELLIGENCE DIVISION:   Git (tracking everyone's moves since Order 66)
 NEURAL NETWORK DIVISION:  YOLO, ViT, GNN, Scikit-Learn
 ```
+
+---
+
+## 🎖️ IMPERIAL SERVICE RECORD — CLASSIFIED EMPLOYMENT HISTORY
+
+> *The Emperor demands practical experience. Mere theory is for Jedi.*
+
+### 🏢 Nusameta — IoT Engineer Intern (Jul 2025 – Aug 2025)
+**Mission:** Automating identity verification to catch Rebel spies faster.
+- Developed the functional prototype of **[NusametaFaceRec](https://github.com/MaksInvader/NusametaFaceRec)**, an IoT-based facial recognition system.
+- Architected data pipelines for edge hardware camera feeds and designed the GUI.
+
+### 🔌 Everything Connected Laboratory — Laboratory Assistant (Feb 2025 – Sep 2025)
+**Mission:** Indoctrinating cadets into the Imperial network structure.
+- Guided freshmen through networking and IoT practicals (Cisco, routing, etc.).
+- Maintained lab equipment, preventing cadets from blowing up the routers.
 
 ---
 
@@ -146,6 +163,24 @@ A TypeScript/web project so compelling that users experience genuine FOMO. The S
 - **Tech:** TypeScript, Web Sorcery
 - **Imperial Use Case:** Selling Death Star merch before the rebellion destroys supply chains
 - **Status:** Deployed to the Holonet
+
+---
+
+### 🌱 [Hydroponic Farms IoT Automation](https://github.com/MaksInvader/HydroponicsIDF)
+**Classification:** Imperial Agriculture Division (Final Year Project)
+Firmware for an IoT-based automation system designed for small-to-medium scale hydroponic farms, complete with Over-The-Air (OTA) update capabilities.
+- **Tech:** IoT, Firmware Engineering, C/C++
+- **Imperial Use Case:** Ensuring Stormtroopers get their daily rations of space-lettuce.
+- **Status:** Completed
+
+---
+
+### 📄 Wildfire Segmentation Research
+**Classification:** Academic Holocron
+Accepted for publication in the 9th International Conference on Data Science and Its Applications (ICoDSA 2026).
+- **Title:** *Tackling Extreme Class Imbalance in Wildfire Segmentation: A Combined Loss and Data-Centric Approach*
+- **Imperial Use Case:** Accurately mapping planets after orbital bombardment.
+- **Status:** In Revision
 
 ---
 
@@ -240,6 +275,16 @@ while galaxy_not_yet_conquered:
 ## 📈 GALACTIC MAPPING — ACTIVITY GRID
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksInvader&theme=github-compact&hide_border=true&bg_color=0d1117&color=ff0000&line=ff4444&point=ffffff)](https://github.com/MaksInvader)
+
+---
+
+## 🧊 3D CONTRIBUTION GRAPH — HOLOGRAPHIC PROJECTION
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" />
+</picture>
 
 ---
 
