@@ -133,8 +133,10 @@ NEURAL NETWORK DIVISION:  YOLO, ViT, GNN, Scikit-Learn
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 17 mins          █████████████████████░░░░   83.68 %
-CSV        15 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Markdown   1 hr 17 mins          ██████████████████░░░░░░░   71.97 %
+CSV        15 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Python     13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Other      1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
